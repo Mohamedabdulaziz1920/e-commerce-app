@@ -52,3 +52,4 @@ Make sure to properly configure your environment variables by referring to the `
 ## Course Video
 
 Watch the full course on YouTube: [Fullstack Gadgets App: React Native Expo & NextJs Admin](https://youtu.be/26opRFPU0a8)
+# e-commerce-app
